@@ -1,7 +1,11 @@
-To-do-list_back-end
+Read me!
+Banck end for to-do-list-app
+this back-end aplication covers routes for conneting app to database
 
-data base accces mongodb+srv://mantassapa:c8z4lEnjE3zuYzbU@to-do-list-database.tgaqhzf.mongodb.net/?retryWrites=true&w=majority&appName=to-do-list-database
+how to launch:
+1.clone this repository,
+2.open integrated terminal and run: npm install
+3.run command: npx nodemon
 
-install mongo: npm install mongodb
-
-connection to db: mongodb+srv://mantassapa:<password>@to-do-list-database.tgaqhzf.mongodb.net/
+after succesfuly launching go back to front-end:
+https://github.com/mantassapa/to-do-list-app
